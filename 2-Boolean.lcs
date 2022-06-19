@@ -1,0 +1,10 @@
+TRUE  := \xy. x
+FALSE := \xy. y
+
+NOT := \p. p FALSE TRUE
+
+
+# Write these yourself!
+
+AND := \pq.
+OR  := \pq.

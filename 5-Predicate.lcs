@@ -1,0 +1,12 @@
+%include './4-Pair.lcs'
+
+# Hint hint
+CONST := \c. \x. c
+
+
+# Write these yourself!
+
+ISZERO := \n.
+
+# Hint: Think about what happens to SUB when m <= n
+LEQ := \mn.
